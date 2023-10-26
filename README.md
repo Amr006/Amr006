@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **amr.khaled.mohamed.mm@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/11cORvzZSIdU9AReFKzErBM89phlSiOb-/view?usp=sharing](https://drive.google.com/file/d/11cORvzZSIdU9AReFKzErBM89phlSiOb-/view?usp=sharing)
+
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
@@ -30,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amr006&show_icons=true&locale=en" alt="amr006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amr006&" alt="amr006" /></p>
-
