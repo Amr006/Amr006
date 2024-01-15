@@ -1,11 +1,12 @@
-![MasterHead](https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)
+![MasterHead](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
+
 <h1 align="center">Hi 👋, I'm Amr Khaled</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amr006&label=Profile%20views&color=0e75b6&style=flat" alt="amr006" /> </p>
 
-- 🔭 I’m currently working on **Matrix-Math (Education Websites)**
+- 🔭 I’m currently working on **Major e-commerce**
 
 - 🌱 I’m currently learning **Advanced Backend Development, DevOps**
 
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me **amr.khaled.mohamed.mm@gmail.com**
 
-- 📄 Know about my experiences [Here is my CV](https://drive.google.com/file/d/1pqNhCSKg16uJ0kAWzjKL8NC_FNGLAPDx/view?usp=sharing)
+- 📄 Know about my experiences [Here is my CV](https://drive.google.com/file/d/1BFubyCHZA424XATFxOcwNzpSkDdmvMBT/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
