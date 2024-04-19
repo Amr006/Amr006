@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Backend Development, DevOps**
 
-- 💬 Ask me about **Node.js, Express.js, MongoDB**
+- 💬 Ask me about **Node.js, Express.js, NestJS, MongoDB, PostgreSQL**
 
 - 📫 How to reach me **amr.khaled.mohamed.mm@gmail.com**
 
