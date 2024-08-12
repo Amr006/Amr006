@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **amr.khaled.mohamed.mm@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10odtZfXzIqPPNUQ0n0EOTy-859IjuZ3G/view?usp=sharing](My CV)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/10odtZfXzIqPPNUQ0n0EOTy-859IjuZ3G/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
